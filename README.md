@@ -26,8 +26,6 @@ Estou evoluindo meus projetos, aprendendo novas tecnologias e construindo minha 
     width="45%" />
 </p>
 
-
-
 ---
 
 ## 🛠 Tecnologias e Ferramentas
