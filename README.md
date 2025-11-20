@@ -15,22 +15,20 @@ Estou evoluindo meus projetos, aprendendo novas tecnologias e construindo minha 
 
 ---
 
-## 📊 Minhas Estatísticas
+## ⭐ Minhas Estatísticas
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DiegoMarayo&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
+  
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiegoMarayo&layout=compact&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
+</p>
 
-### ⭐ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoMarayo&show_icons=true&theme=tokyonight&hide_border=true)
-
-### 📌 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMarayo&layout=compact&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMarayo&theme=tokyonight&hide_border=true)
-
-
-
-
-</div>
 
 ---
 
