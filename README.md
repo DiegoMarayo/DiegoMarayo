@@ -25,6 +25,11 @@ Estou evoluindo meus projetos, aprendendo novas tecnologias e construindo minha 
 ### 📌 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMarayo&layout=compact&theme=tokyonight&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMarayo&theme=tokyonight&hide_border=true)
+
+
+
+
 </div>
 
 ---
