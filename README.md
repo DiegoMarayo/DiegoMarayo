@@ -31,47 +31,32 @@ Estou evoluindo meus projetos, aprendendo novas tecnologias e construindo minha 
 
 ## 🛠 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
+<p align="left">
+  <img alt="HTML5" height="40" style="padding-right:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.25)';" onmouseout="this.style.transform='scale(1)';" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
-  <!-- Frontend -->
-  <img align="center" alt="HTML5" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" height="40" style="padding-right:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.25)';" onmouseout="this.style.transform='scale(1)';" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-  <img align="center" alt="CSS3" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" height="40" style="padding-right:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.25)';" onmouseout="this.style.transform='scale(1)';" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-  <img align="center" alt="JavaScript" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Python" height="40" style="padding-right:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.25)';" onmouseout="this.style.transform='scale(1)';" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-  <!-- Backend -->
-  <img align="center" alt="Python" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="MySQL" height="50" style="padding-right:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.25)';" onmouseout="this.style.transform='scale(1)';" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
-  <!-- Bancos de Dados -->
-  <img align="center" alt="MySQL" height="50" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img alt="PostgreSQL" height="40" style="padding-right:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.25)';" onmouseout="this.style.transform='scale(1)';" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
-  <img align="center" alt="PostgreSQL" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Power BI" height="40" style="padding-right:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.25)';" onmouseout="this.style.transform='scale(1)';" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
 
-  <!-- Data Analytics -->
-  <img align="center" alt="Power BI" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"/>
+  <img alt="Git" height="40" style="padding-right:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.25)';" onmouseout="this.style.transform='scale(1)';" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-  <!-- Ferramentas e Sistemas -->
-  <img align="center" alt="Git" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" height="40" style="padding-right:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.25)';" onmouseout="this.style.transform='scale(1)';" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-  <img align="center" alt="GitHub" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="VSCode" height="40" style="padding-right:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.25)';" onmouseout="this.style.transform='scale(1)';" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
-  <img align="center" alt="VSCode" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img alt="Linux" height="40" style="padding-right:10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.25)';" onmouseout="this.style.transform='scale(1)';" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+</p>
 
-  <img align="center" alt="Linux" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
-</div>
+
 
 <!--
  ## 📂 Projetos em Destaque 
