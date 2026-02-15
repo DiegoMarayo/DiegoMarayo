@@ -67,6 +67,7 @@ Estou evoluindo meus projetos, aprendendo novas tecnologias e construindo minha 
 📧 E-mail: **diegomarayo@gmail.com**  
 💼 LinkedIn: **https://www.linkedin.com/in/diego-marayo/**  
 
+
 ---
 
 ⭐ *Se gostou do meu perfil, deixe uma estrela nos meus repositórios!*
