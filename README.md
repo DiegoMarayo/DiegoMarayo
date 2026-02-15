@@ -18,13 +18,10 @@ Estou evoluindo meus projetos, aprendendo novas tecnologias e construindo minha 
 ## ⭐ Minhas Estatísticas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=diegomarayo&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="50%" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarayo&layout=compact&theme=tokyonight&hide_border=true" 
-    width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=diegomarayo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarayo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="41%" />
 </p>
+
 
 ---
 
