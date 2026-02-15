@@ -1,21 +1,113 @@
-<h1 align="center">👋 Olá! Eu sou o Diego Marayo</h1>
+<h1 align="center">Olá 👋, eu sou Diego Marayo</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<b>Backend Developer em formação | Node.js | TypeScript | APIs HTTP</b>
+</p>
+
+<p align="center">
+  <a href="mailto:diegomarayo@gmail.com">📧 diegomarayo@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/diego-marayo/">LinkedIn</a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Engenharia de Software** e desenvolvedor focado em **Python Backend**.  
-Estou evoluindo meus projetos, aprendendo novas tecnologias e construindo minha jornada na área tech.
+Sou estudante de Engenharia de Software focado em desenvolvimento backend.
+
+Tenho experiência prática construindo APIs HTTP, manipulando rotas, requisições e respostas, organizando código em camadas e utilizando versionamento com Git e GitHub.
+
+Atualmente estou aprofundando conhecimentos em:
+
+* desenvolvimento de APIs REST
+* manipulação de dados
+* organização de projetos backend
+* boas práticas de código
+
+Busco oportunidade como **Estágio ou Desenvolvedor Backend Júnior**.
 
 ---
 
-## ⭐ Minhas Estatísticas
+## 🧠 Tecnologias
+
+**Backend**
+
+* Node.js
+* TypeScript
+* JavaScript
+* HTTP Module (Node)
+
+**Banco de Dados**
+
+* MySQL
+* PostgreSQL (básico)
+
+**Ferramentas**
+
+* Git
+* GitHub
+* VS Code
+* Linux
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🎧 Podcast Manager API
+
+API construída utilizando apenas o módulo HTTP do Node.js (sem frameworks), permitindo manipulação de rotas, criação e listagem de podcasts.
+
+**O que demonstra**
+
+* entendimento de requisições HTTP
+* criação de rotas manualmente
+* organização backend sem abstrações
+* manipulação de JSON
+
+🔗 https://github.com/DiegoMarayo/node-ts-webapi-without-frameworks-podcast-menager
+
+---
+
+### 🔐 QR Code & Password Generator
+
+Aplicação em Node.js capaz de gerar QR Codes e senhas aleatórias a partir de entrada do usuário.
+
+**O que demonstra**
+
+* interação via terminal
+* uso de bibliotecas externas
+* tratamento de dados
+* execução de scripts Node
+
+🔗 https://github.com/DiegoMarayo/projeto-qr-code-password
+
+---
+
+### 🛒 Shopee Cart
+
+Simulação de regras de negócio de carrinho de compras com cálculo de subtotal e total de itens.
+
+**O que demonstra**
+
+* lógica de programação
+* manipulação de objetos
+* separação de responsabilidades
+
+🔗 https://github.com/DiegoMarayo/shopee-cart
+
+---
+
+## 📚 Atualmente estudando
+
+* APIs RESTful
+* Banco de dados SQL
+* Autenticação de usuários
+* Arquitetura backend
+* Estruturação de projetos
+
+---
+
+## 📊 Estatísticas
 
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diegomarayo&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
@@ -24,49 +116,8 @@ Estou evoluindo meus projetos, aprendendo novas tecnologias e construindo minha 
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## 🎯 Objetivo
 
-<p align="left">
-  <img alt="HTML5" height="60" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+Conseguir minha primeira oportunidade profissional como desenvolvedor backend e evoluir trabalhando com sistemas reais, APIs e banco de dados.
 
-  <img alt="CSS3" height="60" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
-  <img alt="JavaScript" height="60" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
-  <img alt="Python" height="70" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-  <img alt="MySQL" height="70" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-
-  <img alt="PostgreSQL" height="60" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-
-  <img alt="Power BI" height="60" style="padding-right:40px;" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
-
-  <img alt="Git" height="60" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-  <img alt="GitHub" height="70" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-  <img alt="VSCode" height="60" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-
-  <img alt="Linux" height="60" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-</p>
-
-
-
-
-<!--
- ## 📂 Projetos em Destaque 
-
-🔹 *Adicione aqui quando quiser fixar seus melhores projetos no perfil.*
-
---- 
--->
-
-## 📬 Contato
-
-📧 E-mail: **diegomarayo@gmail.com**  
-💼 LinkedIn: **https://www.linkedin.com/in/diego-marayo/**  
-
-
----
-
-⭐ *Se gostou do meu perfil, deixe uma estrela nos meus repositórios!*
+Sempre aberto a feedbacks e aprendizados.
