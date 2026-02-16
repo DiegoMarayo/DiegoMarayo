@@ -19,10 +19,10 @@ Tenho experiência prática construindo APIs HTTP, manipulando rotas, requisiç�
 
 Atualmente estou aprofundando conhecimentos em:
 
-* desenvolvimento de APIs REST
-* manipulação de dados
-* organização de projetos backend
-* boas práticas de código
+* Desenvolvimento de APIs REST
+* Manipulação de dados
+* Organização de projetos backend
+* Boas práticas de código
 
 Busco oportunidade como **Estágio ou Desenvolvedor Backend Júnior**.
 
