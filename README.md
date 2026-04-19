@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software focado em desenvolvimento backend.
+Sou estudante de Engenharia de Software focado em desenvolvimento Fullstack.
 
 Tenho experiência prática construindo APIs HTTP, manipulando rotas, requisições e respostas, organizando código em camadas e utilizando versionamento com Git e GitHub.
 
