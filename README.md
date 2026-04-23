@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Diego Marayo</h1>
 
 <p align="center">
-<b>Fullstack Developer em formação | Node.js | TypeScript | Python | APIs HTTP</b>
+<b>Backend Developer em formação | Node.js | TypeScript | Python | APIs HTTP | React Native</b>
 </p>
 
 <p align="center">
