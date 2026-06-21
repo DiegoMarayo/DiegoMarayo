@@ -24,7 +24,7 @@ Atualmente estou aprofundando conhecimentos em:
 * Organização de projetos backend
 * Boas práticas de código
 
-Busco oportunidade como **Estágio ou Desenvolvedor Backend Júnior**.
+Busco oportunidade como **Estágio ou Desenvolvedor Fullstack Jr**.
 
 ---
 
